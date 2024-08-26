@@ -86,6 +86,19 @@
 ![image](https://github.com/user-attachments/assets/c028f6f6-ad5e-4d35-b75d-6473026a68bc)
 
 （2）学号+反向扫描报告
+
+![image](https://github.com/user-attachments/assets/8c88c314-0814-40d0-b0af-3eed2b44b3eb)
+
+![image](https://github.com/user-attachments/assets/e49adbf8-eb08-4098-a124-4c5eaab5f6b6)
+
+![image](https://github.com/user-attachments/assets/de990fb3-9fd6-4a50-bd3b-4b03373c5493)
+
+![image](https://github.com/user-attachments/assets/518408c7-b1fd-4ac8-aa8e-de3b4d35450c)
+
+![image](https://github.com/user-attachments/assets/7ee7f7c8-57f8-4c44-bac1-eebd52df5193)
+
+![image](https://github.com/user-attachments/assets/27d40791-3ef3-4858-87c0-737a39932aa4)
+
 1~5 中的截图附学号和时间戳
 
 6、以任一企业为关键词进行信息收集练习并汇总报告，禁止进行违规操作。
