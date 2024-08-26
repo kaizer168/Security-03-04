@@ -75,29 +75,43 @@
 
 4、安装并使用 Nmap 扫描一个地址（本机、VPS、虚拟机环境都可以），提供扫描结果截图
 
+![image](https://github.com/user-attachments/assets/3768dbf1-eb6c-410b-a8c3-0ba69632d6ca)
+
 5、安装并使用 Xray 分别进行正向扫描和反向扫描，提供扫描报告，报告名称：
 （1）学号+正向扫描报告
+![image](https://github.com/user-attachments/assets/09d56ca3-dde6-4ea0-9908-cac9b5486b85)
+
+![image](https://github.com/user-attachments/assets/cbb10133-741a-492a-bbd5-de343f1ad5ab)
+
+![image](https://github.com/user-attachments/assets/c028f6f6-ad5e-4d35-b75d-6473026a68bc)
+
 （2）学号+反向扫描报告
 1~5 中的截图附学号和时间戳
 
 6、以任一企业为关键词进行信息收集练习并汇总报告，禁止进行违规操作。
+![image](https://github.com/user-attachments/assets/19dfa416-094f-447b-a5db-4b79b7b46c59)
 
+![image](https://github.com/user-attachments/assets/ff76366d-30e4-427f-a62d-5604e79307fe)
 
+![image](https://github.com/user-attachments/assets/3b4cf059-6670-4c70-ab9a-35e9d9b46b17)
 
+![image](https://github.com/user-attachments/assets/d4eac223-424c-48bc-9fd0-a3be27217a35)
 
+![image](https://github.com/user-attachments/assets/03a9859d-0650-4d7d-84ee-78c035be8d70)
 
+![image](https://github.com/user-attachments/assets/c75165e9-6816-4ccc-9a11-3c5ab3a92560)
 
+![image](https://github.com/user-attachments/assets/78553906-bc7f-4dd3-8278-09807648cfa0)
 
+![image](https://github.com/user-attachments/assets/5827ba63-4fc8-4dc0-ab4a-ec96e2c336c0)
 
+![image](https://github.com/user-attachments/assets/5996802d-9d62-4f3a-92b1-90f035a57849)
 
+![image](https://github.com/user-attachments/assets/005a2f90-9345-4d86-b4e7-92cf5c67fecd)
 
+![image](https://github.com/user-attachments/assets/febfe6eb-badb-4f12-bfbd-b9665dd6e814)
 
+![image](https://github.com/user-attachments/assets/55ee7a8d-458e-452d-bcc7-ac14e37363d8)
 
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/03dfbc47-325d-4b6b-8e2a-f759d70e8057)
 
